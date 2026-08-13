@@ -1,0 +1,10 @@
+{
+  "sample_size": 200,
+  "class_counts": {
+    "0": 100,
+    "1": 100
+  },
+  "model": "facebook/bart-large-mnli",
+  "device": -1,
+  "random_state": 42
+}

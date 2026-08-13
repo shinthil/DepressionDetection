@@ -1,0 +1,9 @@
+{
+  "Prompt": "B",
+  "Labels Used": "descriptive",
+  "label_0_text": "general depression anxiety and loneliness",
+  "label_1_text": "suicidal ideation and self-harm",
+  "Accuracy": 0.71,
+  "Weighted F1": 0.7033248081841432,
+  "Macro F1": 0.7033248081841432
+}

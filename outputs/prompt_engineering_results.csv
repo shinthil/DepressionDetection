@@ -1,0 +1,4 @@
+Prompt,Labels Used,label_0_text,label_1_text,Accuracy,Weighted F1,Macro F1
+B,descriptive,general depression anxiety and loneliness,suicidal ideation and self-harm,0.71,0.7033248081841432,0.7033248081841432
+A,simple,mental health risk,suicidal risk,0.685,0.6571521863350657,0.6571521863350658
+C,clinical,moderate psychological distress,acute suicidal crisis requiring immediate intervention,0.535,0.4136006809798543,0.41360068097985436

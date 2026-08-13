@@ -1,0 +1,8 @@
+{
+  "winner": "Zero-Shot",
+  "f1_delta_few_minus_zero": -0.10055925193021487,
+  "best_labels": [
+    "general depression anxiety and loneliness",
+    "suicidal ideation and self-harm"
+  ]
+}
